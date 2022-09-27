@@ -1,2 +1,1 @@
-# Odor_analysis
-Complex odor analysis and interpretation
+# Odor Analysis
