@@ -18,10 +18,12 @@ This study focus on develop a odor predict model and interpret the model's class
     - Ammonia
     - Sulfur compounds: Hydrogen Sulfide, Methyl mercaptan, Dimethyl sulfide, Dimethyl disulfide
     - Volatile Organic compounds: Acetic acid , Propionic acid, Butyric acid, Iso-Butyric acid, Valeric acid, Iso-Valeric aic, Phenol, para-Cresol, Indole, Skatole
-
-
-![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F234ff89f-fcdf-4385-b1d8-e56757189364%2FUntitled.png?id=799b5c0b-80ed-4f8c-a7ef-fdd8ddaec4fe&table=block&spaceId=6cc23a96-8110-4f80-9a0b-4eb515095500&width=2000&userId=e639e6c1-7dd8-4d51-97de-be9ead475dc3&cache=v2
+ 
+![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F09917d0a-ca2e-473c-b6bc-378e49272f47%2FUntitled.png?id=583d2a3b-3e0d-4f0f-a7e2-c1e640b6670e&table=block&spaceId=6cc23a96-8110-4f80-9a0b-4eb515095500&width=2000&userId=e639e6c1-7dd8-4d51-97de-be9ead475dc3&cache=v2
 )
+
+https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F09917d0a-ca2e-473c-b6bc-378e49272f47%2FUntitled.png?id=583d2a3b-3e0d-4f0f-a7e2-c1e640b6670e&table=block&spaceId=6cc23a96-8110-4f80-9a0b-4eb515095500&width=2000&userId=e639e6c1-7dd8-4d51-97de-be9ead475dc3&cache=v2
+
 
 ### Analysis process
 
